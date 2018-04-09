@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+#landingPage{
+  background-image: "https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fik.imagekit.io%2Frotimatic%2Fwp-content%2Fuploads%2F2014%2F03%2Fjoin-the-roti-revolution-with-rotimatic.png&imgrefurl=https%3A%2F%2Frotimatic.com%2F&docid=8KZmMy-LGSGhPM&tbnid=BbNHo1Ex5GH2QM%3A&vet=10ahUKEwjlyrK1qqXaAhULtI8KHY7OAaAQMwhBKAswCw..i&w=1920&h=816&bih=629&biw=979&q=zimplistic%20pvt%20ltd&ved=0ahUKEwjlyrK1qqXaAhULtI8KHY7OAaAQMwhBKAswCw&iact=mrc&uact=8";
+}
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
